@@ -1,0 +1,1 @@
+def connec(arg): pass
