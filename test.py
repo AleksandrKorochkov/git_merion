@@ -1,1 +1,1 @@
-def start_test(arg): pass
+def start_test(arg): return 1
